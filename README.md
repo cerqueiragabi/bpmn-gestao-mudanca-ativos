@@ -19,7 +19,7 @@ Representar, de forma simplificada, um fluxo de gestão de mudanças em ativos, 
 
 ## Estrutura do processo
 
-![Diagrama BPMN](diagramas/gestao_mudanca_ativos_bpmn.png)
+![Diagrama BPMN](gestao_mudanca_ativos_bpmn.png)
 
 ## Descrição do fluxo
 
